@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<key-mapping>
+  <channels>
+    <mapping key="1" channel="0"/>
+    <mapping key="2" channel="1"/>
+    <mapping key="3" channel="2"/>
+    <mapping key="4" channel="3"/>
+    <mapping key="5" channel="4"/>
+    <mapping key="6" channel="5"/>
+    <mapping key="7" channel="6"/>
+    <mapping key="8" channel="7"/>
+  </channels>
+  <functions>
+    <mapping key="r" function="record"/>
+    <mapping key="s" function="stop"/>
+    <mapping key="p" function="pause"/>
+    <mapping key="c" function="clear"/>
+    <mapping key="o" function="open"/>
+    <mapping key="v" function="save"/>
+    <mapping key="z" function="zoom"/>
+    <mapping key="x" function="reset_zoom"/>
+    <mapping key="g" function="toggle_grid"/>
+    <mapping key="l" function="toggle_legend"/>
+    <mapping key="h" function="help"/>
+    <mapping key="k" function="virtual_keyboard"/>
+    <mapping key="m" function="toggle_mapping"/>
+  </functions>
+  <settings>
+    <enabled>1</enabled>
+    <show-hints>1</show-hints>
+  </settings>
+</key-mapping>
